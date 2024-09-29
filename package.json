@@ -1,0 +1,29 @@
+{
+  "name": "dev-tinder",
+  "version": "1.0.0",
+  "description": "A Full Project",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js",
+    "dev": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MdArslaan/Namaste-Dev-Tinder.git"
+  },
+  "keywords": [
+    "demo",
+    "npm",
+    "nodejs"
+  ],
+  "author": "MD Arslaan <mdarslaan27@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MdArslaan/Namaste-Dev-Tinder/issues"
+  },
+  "homepage": "https://github.com/MdArslaan/Namaste-Dev-Tinder#readme",
+  "dependencies": {
+    "express": "^4.21.0",
+    "nodemon": "^3.1.7"
+  }
+}
